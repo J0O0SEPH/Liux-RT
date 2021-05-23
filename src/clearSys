@@ -1,0 +1,1 @@
+echo > /dev/null | sudo tee /var/log/syslog && logger [COURSE:1][ASSIGNMENT:4]: `uname -a`
